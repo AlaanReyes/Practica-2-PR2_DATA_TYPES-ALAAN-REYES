@@ -8,18 +8,31 @@ print ("REYES MEZA ALAN EDUARDO-PRACTICA 2-TIPOS DE DATOS-3W") #NOMBRE DE PRACTI
 # Definición de variables de diferentes tipos de datos
 
 A = str("Hello World")	 # Cadena de texto
+
 B = int(20)               # Entero
+
 C = float(20.5)           # Punto flotante
+
 D = complex(1j)           # Número complejo
+
 E = list(("apple", "banana", "cherry"))  # Lista
+
 F = tuple(("apple", "banana", "cherry")) # Tupla
+
 G = range(6)              # Rango de números del 0 al 5
+
 H = dict(name="John", age=36)  # Diccionario
+
 I = set(("apple", "banana", "cherry"))   # Conjunto
+
 J = frozenset(("apple", "banana", "cherry"))  # Conjunto inmutable
+
 K = bool(5)              # Booleano (True)
+
 L = bytes(5)             # Bytes (5 bytes)
+
 M = bytearray(5)         # Bytearray (5 bytes mutables)
+
 N = memoryview(bytes(5)) # Vista de memoria de un objeto de bytes
 
 # Imprimir los tipos de cada variable
