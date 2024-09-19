@@ -36,19 +36,33 @@ M = bytearray(5)         # Bytearray (5 bytes mutables)
 N = memoryview(bytes(5)) # Vista de memoria de un objeto de bytes
 
 # Imprimir los tipos de cada variable
+
 print(type(A))  # Imprime el tipo de A
+
 print(type(B))  # Imprime el tipo de B
+
 print(type(C))  # Imprime el tipo de C
+
 print(type(D))  # Imprime el tipo de D
+
 print(type(E))  # Imprime el tipo de E
+
 print(type(F))  # Imprime el tipo de F
+
 print(type(G))  # Imprime el tipo de G
+
 print(type(H))  # Imprime el tipo de H
+
 print(type(I))  # Imprime el tipo de I
+
 print(type(J))  # Imprime el tipo de J
+
 print(type(K))  # Imprime el tipo de K
+
 print(type(L))  # Imprime el tipo de L
+
 print(type(M))  # Imprime el tipo de M
+
 print(type(N))  # Imprime el tipo de N
 
 ![image](https://github.com/user-attachments/assets/9c32ed48-6133-404c-b9ad-c79e0c626164)
