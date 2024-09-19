@@ -2,9 +2,11 @@
 MI Practica 2 _DATA_TYPES-ALAAN-REYES-3W
 
 print(" ") #ESPACIO PARA NOMBRE
+
 print ("REYES MEZA ALAN EDUARDO-PRACTICA 2-TIPOS DE DATOS-3W") #NOMBRE DE PRACTICA Y DATOS DEL PRGRAMADOR
 
 # Definición de variables de diferentes tipos de datos
+
 A = str("Hello World")	 # Cadena de texto
 B = int(20)               # Entero
 C = float(20.5)           # Punto flotante
